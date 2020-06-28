@@ -6,7 +6,11 @@
 </template>
 
 <script>
+import AppForm from '@/components/AppForm.vue'
 export default {
   name: 'Application',
+  components: {
+    AppForm,
+  },
 }
 </script>
