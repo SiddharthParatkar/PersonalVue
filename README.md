@@ -1,4 +1,4 @@
-# lyvo-demo
+# PersonalVue
 
 ## Project setup
 ```
